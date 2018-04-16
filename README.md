@@ -70,4 +70,6 @@ Note: Your default browser should open automatically and you should see the reac
 
 ## Screenshot
 
+<img width="1440" alt="screen shot 2018-04-16 at 9 58 17 pm" src="https://user-images.githubusercontent.com/26470411/38822798-25eb17f8-41c2-11e8-96c4-047231b8ad8c.png">
 
+<img width="1440" alt="screen shot 2018-04-16 at 9 58 32 pm" src="https://user-images.githubusercontent.com/26470411/38822818-35565676-41c2-11e8-9085-01035d7138ef.png">
