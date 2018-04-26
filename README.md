@@ -62,9 +62,9 @@ You can refer [to the React documentation](https://reactjs.org/docs/react-dom.ht
 ## Steps for local development
 
 1. git clone the repository
-2. cd react-weather-app
-3. npm install
-4. npm start
+2. `cd react-weather-app`
+3. `npm install`
+4. `npm start`
 
 Note: Your default browser should open automatically and you should see the react page if not Open Tab on the browser and connect to http://localhost:3000/
 
