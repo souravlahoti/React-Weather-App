@@ -7,14 +7,11 @@ For the project to build, **these files must exist with exact filenames**:
 
 You can delete or rename the other files.
 
-You may create subdirectories inside `src`. For faster rebuilds, only files inside `src` are processed by Webpack.<br>
-You need to **put any JS and CSS files inside `src`**, otherwise Webpack won’t see them.
+## Screenshot
 
-Only files inside `public` can be used from `public/index.html`.<br>
-Read instructions below for using assets from JavaScript and HTML.
+<img width="1440" alt="screen shot 2018-04-16 at 9 58 17 pm" src="https://user-images.githubusercontent.com/26470411/38822798-25eb17f8-41c2-11e8-96c4-047231b8ad8c.png">
 
-You can, however, create more top-level directories.<br>
-They will not be included in the production build so you can use them for things like documentation.
+<img width="1440" alt="screen shot 2018-04-16 at 9 58 32 pm" src="https://user-images.githubusercontent.com/26470411/38822818-35565676-41c2-11e8-9085-01035d7138ef.png">
 
 ## Available Scripts
 
@@ -59,7 +56,7 @@ By default, the generated project uses the latest version of React.
 
 You can refer [to the React documentation](https://reactjs.org/docs/react-dom.html#browser-support) for more information about supported browsers.
 
-## Steps for local development
+## Steps for Installation
 
 1. git clone the repository
 2. `cd react-weather-app`
@@ -68,8 +65,3 @@ You can refer [to the React documentation](https://reactjs.org/docs/react-dom.ht
 
 Note: Your default browser should open automatically and you should see the react page if not Open Tab on the browser and connect to http://localhost:3000/
 
-## Screenshot
-
-<img width="1440" alt="screen shot 2018-04-16 at 9 58 17 pm" src="https://user-images.githubusercontent.com/26470411/38822798-25eb17f8-41c2-11e8-96c4-047231b8ad8c.png">
-
-<img width="1440" alt="screen shot 2018-04-16 at 9 58 32 pm" src="https://user-images.githubusercontent.com/26470411/38822818-35565676-41c2-11e8-9085-01035d7138ef.png">
